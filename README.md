@@ -1,5 +1,5 @@
 # CLI-set-screen-resolution
-Command line program to configure the screen resolution
+Command line program to configure the screen resolution of GNU/Linux machines.
 
 ## Utility
 This program let's you configure unsupported resolutions on the fly.
